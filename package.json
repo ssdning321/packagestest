@@ -1,0 +1,16 @@
+{
+  "name": "com.sy.efficiencytoolkit",
+  "displayName": "EfficiencyToolkit",
+  "description": "efficiencytoolkit",
+  "version": "1.0.0",
+  "unity": "2020.3",
+  "documentationUrl": "http://www.baidu.com",
+  "changelogUrl": "http://www.baidu.com",
+  "licensesUrl": "http://www.baidu.com",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "author": {
+    "name": "SYEngine"
+  }
+}
